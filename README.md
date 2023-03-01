@@ -36,11 +36,15 @@ To run the vaccine appointment booking web application, follow these steps:
 
 Install the necessary dependencies using Composer.
 
-`composer install`
+```
+composer install
+```
 
 Start the PHP server.
 
-`php -S localhost:8000`
+```
+php -S localhost:8000
+```
 
 Open the web application in your web browser at http://localhost:8000.
 
