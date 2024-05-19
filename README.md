@@ -1,4 +1,4 @@
-# 🩺 COVID-19 Testing Management Web Application
+# COVID-19 Testing Management Web Application
 
 This is a web application that simplifies the process of booking a vaccine appointment. The app streamlines the process of scheduling and managing all details related to patients and phlebotomists. 💻
 
