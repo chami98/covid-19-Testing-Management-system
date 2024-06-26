@@ -15,7 +15,7 @@ The web application is developed using the following technologies:
 
 - SCSS
 
-## 🌡️ Features
+##  Features
 
 The vaccine appointment booking web application provides the following features:
 
